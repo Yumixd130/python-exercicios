@@ -14,7 +14,7 @@ Este repositório reúne os exercícios que desenvolvi durante meus estudos de P
 
 ## 🎯 Objetivo
 
-Praticar lógica de programação utilizando Python e construir uma base sólida para desenvolver projetos maiores.
+Estou estudando Python para desenvolver minha lógica de programação, construir projetos práticos e me preparar para uma oportunidade de estágio em desenvolvimento de software.
 
 ## 🚀 Tecnologias
 
