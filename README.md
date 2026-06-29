@@ -1,6 +1,6 @@
 # 🐍 Exercícios de Python
 
-Este repositório reúne os exercícios que desenvolvi durante meus estudos de Python.
+Este repositório reúne os exercícios que desenvolvo durante meus estudos de Python.
 
 ## 📚 Exercícios
 
